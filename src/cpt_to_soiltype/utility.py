@@ -1,7 +1,7 @@
 import pandas as pd
 from typing import Callable
 from rich.console import Console
-abs
+
 def track_sample_num(func: Callable) -> Callable:
     """Tracking number of samples of a dataframe before and after processing.
     """
