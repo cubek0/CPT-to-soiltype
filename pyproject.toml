@@ -2,7 +2,7 @@
 name = "cpt-to-soiltype"
 version = "0.1.0"
 description = "CPT to soiltype prediction"
-authors = ["tfh <tom.frode.hansen@ngi.no>"]
+authors = ["cubek0 <panuska.geotech@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [
