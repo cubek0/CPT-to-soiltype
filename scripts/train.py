@@ -16,6 +16,7 @@ from cpt_to_soiltype.train_eval_funcs import (evaluate_model, load_data,
 @hydra.main(config_path="config", config_name="main.yaml", version_base="1.3")
 def main(cfg: DictConfig) -> None:
     """
+
     To rerun an experiment, use the following command:
 
     python <script_name>.py \
